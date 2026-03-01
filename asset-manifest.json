@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8aad1e84.css",
+    "main.js": "/static/js/main.91ed02a0.js",
+    "static/css/64.bba8fa55.chunk.css": "/static/css/64.bba8fa55.chunk.css",
+    "static/js/64.56dc6704.chunk.js": "/static/js/64.56dc6704.chunk.js",
+    "static/css/769.b3cbb36b.chunk.css": "/static/css/769.b3cbb36b.chunk.css",
+    "static/js/769.bda0d7b7.chunk.js": "/static/js/769.bda0d7b7.chunk.js",
+    "static/media/NavyaAIimage.png": "/static/media/NavyaAIimage.2feb31460c0cab6ad097.png",
+    "static/media/etl-banner.jpg": "/static/media/etl-banner.bfdde1875a47678b3cd4.jpg",
+    "static/media/AULogo.webp": "/static/media/AULogo.4bd4c00e6a10c509eea1.webp",
+    "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/NavyaKraleti_CV.pdf": "/static/media/NavyaKraleti_CV.f31bb4520de779e9b93d.pdf",
+    "static/media/playwrighttesting.jpeg": "/static/media/playwrighttesting.f20811abe2f930ad6e1b.jpeg",
+    "static/media/API_Testing.png": "/static/media/API_Testing.058cdb72d01b9bcaa62a.png",
+    "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/salesforcetesting.png": "/static/media/salesforcetesting.474efbeba602bfb1c890.png",
+    "static/media/mahelogo.png": "/static/media/mahelogo.aa0e9cfac53d353c6335.png",
+    "static/media/Api-testing.jpg": "/static/media/Api-testing.c713b17dda9fe23d2852.jpg",
+    "static/media/recognition.png": "/static/media/recognition.3f3b390faddc3064b887.png",
+    "static/media/contactMailDark.svg": "/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/infosyslogo.webp": "/static/media/infosyslogo.1038777fe205e3cfd06a.webp",
+    "static/media/developerActivity.svg": "/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/skill.svg": "/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "index.html": "/index.html",
+    "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.8aad1e84.css.map": "/static/css/main.8aad1e84.css.map",
+    "main.91ed02a0.js.map": "/static/js/main.91ed02a0.js.map",
+    "64.bba8fa55.chunk.css.map": "/static/css/64.bba8fa55.chunk.css.map",
+    "64.56dc6704.chunk.js.map": "/static/js/64.56dc6704.chunk.js.map",
+    "769.b3cbb36b.chunk.css.map": "/static/css/769.b3cbb36b.chunk.css.map",
+    "769.bda0d7b7.chunk.js.map": "/static/js/769.bda0d7b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8aad1e84.css",
+    "static/js/main.91ed02a0.js"
+  ]
+}
