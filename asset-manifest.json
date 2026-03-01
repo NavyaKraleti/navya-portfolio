@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/navya-portfolio/static/css/main.ae4058a0.css",
-    "main.js": "/navya-portfolio/static/js/main.e90c787f.js",
+    "main.js": "/navya-portfolio/static/js/main.7671bf4c.js",
     "static/css/64.bba8fa55.chunk.css": "/navya-portfolio/static/css/64.bba8fa55.chunk.css",
     "static/js/64.56dc6704.chunk.js": "/navya-portfolio/static/js/64.56dc6704.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/navya-portfolio/static/css/769.b3cbb36b.chunk.css",
@@ -25,7 +25,7 @@
     "index.html": "/navya-portfolio/index.html",
     "static/media/talksCardBack.svg": "/navya-portfolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.ae4058a0.css.map": "/navya-portfolio/static/css/main.ae4058a0.css.map",
-    "main.e90c787f.js.map": "/navya-portfolio/static/js/main.e90c787f.js.map",
+    "main.7671bf4c.js.map": "/navya-portfolio/static/js/main.7671bf4c.js.map",
     "64.bba8fa55.chunk.css.map": "/navya-portfolio/static/css/64.bba8fa55.chunk.css.map",
     "64.56dc6704.chunk.js.map": "/navya-portfolio/static/js/64.56dc6704.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/navya-portfolio/static/css/769.b3cbb36b.chunk.css.map",
@@ -33,6 +33,6 @@
   },
   "entrypoints": [
     "static/css/main.ae4058a0.css",
-    "static/js/main.e90c787f.js"
+    "static/js/main.7671bf4c.js"
   ]
 }
