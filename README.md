@@ -99,8 +99,8 @@ npm run deploy
 
 ## 📬 Contact
 
-* LinkedIn: https://linkedin.com/in/YOUR_LINK
-* Email: [your@email.com](mailto:your@email.com)
+* LinkedIn: https://www.linkedin.com/in/navya-kraleti-a55a33253/
+* Email: (mailto:navyakraleti346@gmail.com)
 
 ---
 
