@@ -2,7 +2,7 @@
 
 This repository contains my personal portfolio website built with React.
 
-🔗 **Live Portfolio:** https://yourusername.github.io/
+🔗 **Live Portfolio:** https://navyakraleti.github.io/navya-portfolio/
 
 ---
 
