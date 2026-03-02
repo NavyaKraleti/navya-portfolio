@@ -58,7 +58,7 @@ export default function Greeting() {
           <div className="greeting-image-div">
             <img
               alt="Navya Profile"
-              src={require("../../assets/images/NavyaAIimage.png")}
+              src={require("../../assets/images/NavyaImageFinal.jpg")}
               className="main-profile-image"
 />
           </div>
