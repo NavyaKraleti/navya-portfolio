@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/navya-portfolio/static/css/main.ae4058a0.css",
-    "main.js": "/navya-portfolio/static/js/main.7671bf4c.js",
+    "main.js": "/navya-portfolio/static/js/main.9056f62d.js",
     "static/css/64.bba8fa55.chunk.css": "/navya-portfolio/static/css/64.bba8fa55.chunk.css",
     "static/js/64.56dc6704.chunk.js": "/navya-portfolio/static/js/64.56dc6704.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/navya-portfolio/static/css/769.b3cbb36b.chunk.css",
     "static/js/769.bda0d7b7.chunk.js": "/navya-portfolio/static/js/769.bda0d7b7.chunk.js",
-    "static/media/NavyaAIimage.png": "/navya-portfolio/static/media/NavyaAIimage.2feb31460c0cab6ad097.png",
+    "static/media/NavyaImageFinal.jpg": "/navya-portfolio/static/media/NavyaImageFinal.6f692f332a57c1cc1e76.jpg",
     "static/media/etl-banner.jpg": "/navya-portfolio/static/media/etl-banner.bfdde1875a47678b3cd4.jpg",
     "static/media/AULogo.webp": "/navya-portfolio/static/media/AULogo.4bd4c00e6a10c509eea1.webp",
     "static/media/Montserrat-Regular.ttf": "/navya-portfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
@@ -25,7 +25,7 @@
     "index.html": "/navya-portfolio/index.html",
     "static/media/talksCardBack.svg": "/navya-portfolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.ae4058a0.css.map": "/navya-portfolio/static/css/main.ae4058a0.css.map",
-    "main.7671bf4c.js.map": "/navya-portfolio/static/js/main.7671bf4c.js.map",
+    "main.9056f62d.js.map": "/navya-portfolio/static/js/main.9056f62d.js.map",
     "64.bba8fa55.chunk.css.map": "/navya-portfolio/static/css/64.bba8fa55.chunk.css.map",
     "64.56dc6704.chunk.js.map": "/navya-portfolio/static/js/64.56dc6704.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/navya-portfolio/static/css/769.b3cbb36b.chunk.css.map",
@@ -33,6 +33,6 @@
   },
   "entrypoints": [
     "static/css/main.ae4058a0.css",
-    "static/js/main.7671bf4c.js"
+    "static/js/main.9056f62d.js"
   ]
 }
