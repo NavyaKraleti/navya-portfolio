@@ -233,12 +233,13 @@ const bigProjects = {
 
 {
   image: require("./assets/images/API_Testing.png"),
-  projectName: "Digital Banking API Automation (Postman)",
+  projectName: "Retail Banking API QA Simulation",
   projectDesc:
-    "Built an end-to-end Digital Banking API automation framework using Postman. Implemented deposit and withdrawal validations, dynamic environment variables, pre-request scripts, and data-driven execution using Collection Runner.",
+    "End-to-end API testing simulation for a Retail Banking system using Postman and Newman. Implemented functional validation, negative scenarios, and data-driven automation using CSV datasets.",
   footerLink: [
     {
-      name: "Project Work (Ongoing)"
+      name: "GitHub",
+      url: "https://github.com/NavyaKraleti/Retail-Banking-API-QA-Simulation"
     }
   ]
 },
